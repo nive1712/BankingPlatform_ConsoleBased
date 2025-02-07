@@ -1,4 +1,4 @@
-package com.virtusa.userdaoimplementation;
+package com.bank.userdaoimplementation;
 
 import com.bank.dao.LoanDao;
 import com.bank.model.Loan;
