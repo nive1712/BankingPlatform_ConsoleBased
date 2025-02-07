@@ -1,4 +1,4 @@
-package com.virtusa.userdaoimplementation;
+package com.bank.userdaoimplementation;
 
 import com.bank.dao.NetBankingDao;
 import com.bank.model.NetBanking;
